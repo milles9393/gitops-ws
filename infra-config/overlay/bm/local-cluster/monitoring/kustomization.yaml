@@ -4,4 +4,4 @@ resources:
 - ../../../../base/monitoring
 
 patches:
-- path: enable-user-monitoring-configmap.patch.yaml
+- path: configmap-enable-user-monitoring.patch.yaml
